@@ -3,10 +3,11 @@
 Recycle your broken Jumper T-Lite (or any transmitter with hall sensor gimbals) and use it with a flight simulator. You’ll just need an Arduino Micro or Leonardo board.
 
 **Wiring (for the T-Lite):**
-Black: A0 - A2
-White: A1 - A3
-Yellow: Vcc
-Red: Ground
+
+- Black: A0 - A2
+- White: A1 - A3
+- Yellow: Vcc
+- Red: Ground
 
 **Library you need:**
 https://github.com/MHeironimus/ArduinoJoystickLibrary
